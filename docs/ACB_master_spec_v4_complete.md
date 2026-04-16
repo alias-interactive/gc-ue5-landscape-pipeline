@@ -1,4 +1,4 @@
-# ACB MASTER SPEC v4.0 — COMPLETE MERGED PROJECT SPECIFICATION
+# ACB MASTER SPEC v4.00 — COMPLETE MERGED PROJECT SPECIFICATION
 # Gold Coast LGA — UE5 Open World + Game Pipeline
 # Date: April 2026 | Author: ACB
 # Paste as message 1 in every new ACB or ACA session.
