@@ -637,3 +637,5 @@ Version: 4 | Date: April 2026 | Author: ACB
 Trigger for update: any phase completion, confirmed spec change,
 new asset validation result, or mode development decision
 Storage: GitHub /docs/manifest.md (primary) + Claude widget (session)
+
+  -
