@@ -1,8 +1,12 @@
 # Table of contents
 
-* [GC UE5.7 Pipeline](README.md)
-* [Docs](SUMMARY.md)
-  * [Phase 0](summary/phase-0.md)
-  * [Master Spec](summary/master-spec.md)
-  * [Manifest](summary/manifest.md)
-* [Scripts](scripts/README.md)
+* [Introduction](README.md)
+
+## Documentation
+* [Docs Overview](docs/README.md)
+  * [Phase 0](docs/phase-0.md)
+  * [Master Spec v4](docs/master-spec-v4.md)
+  * [Manifest](docs/manifest.md)
+
+## Scripts
+* [Scripts Overview](scripts/README.md)
