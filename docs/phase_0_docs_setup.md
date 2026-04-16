@@ -1,4 +1,4 @@
-# Phase 0 — Project Setup, Tools, and Documentation Pipeline
+# Phase 0.1 — Project Setup, Tools, and Documentation Pipeline
 
 ## Who this guide is for
 
