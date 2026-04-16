@@ -2,7 +2,7 @@
 description: Init Gitbook → Github sync test
 ---
 
-# Test
+# C UE5 Pipeline Docs
 
-Test content
+Home for all user instructions / Project Manifest
 
