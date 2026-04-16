@@ -1,7 +1,5 @@
 # Table of contents
 
-# Summary
-
 * [GC UE5 Pipeline](README.md)
 * [Docs](docs/README.md)
   * [Phase 0](docs/phase-0.md)
