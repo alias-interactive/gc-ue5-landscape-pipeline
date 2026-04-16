@@ -1,5 +1,5 @@
 ---
-description: Init Gitbook → Github sybc test
+description: Init Gitbook → Github sync test
 ---
 
 # Test
